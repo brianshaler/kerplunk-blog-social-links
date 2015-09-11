@@ -2,7 +2,7 @@
   "name": "kerplunk-blog-social-links",
   "displayName": "Blog Social Links",
   "description": "Add social links to blog",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "kerplunk": {
     "dependencies": [
       "kerplunk-blog"
